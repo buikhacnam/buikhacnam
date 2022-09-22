@@ -5,4 +5,5 @@
 <a title='MongoDB' href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/buikhacnam/buikhacnam/main/public/mongo.png" width="46" height="46" alt="MongoDB" /></a>
 <a title='Solidity' href="https://docs.soliditylang.org/en/v0.8.6/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/buikhacnam/buikhacnam/main/public/solidity.png" width="46" height="46" alt="Solidity" /></a>
 
- ### 🌐 [buinam.com](https://buinam.com)
+ ### 🌐 [buinam.com](https://buinam.com) 
+ ### <img src="https://raw.githubusercontent.com/buikhacnam/buikhacnam/main/public/youtube.svg" width="20" height="20" alt="youtube" /> [youtube chanel](https://www.youtube.com/channel/UCvdDJyJ8twY5EwVSOA8MwMg)
